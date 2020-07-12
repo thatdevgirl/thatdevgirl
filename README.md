@@ -1,19 +1,17 @@
 ![Green robot with computer console text saying Hello World](https://github.com/thatdevgirl/thatdevgirl/blob/master/images/hello-world-robot.jpg)
 
-My name is **Joni** and I am a web developer at Georgetown University.
+My name is **Joni** and I am a "middle-end" web developer, who loves to write code and make up her own titles.
 
+## About me
 
-<!--
-**thatdevgirl/thatdevgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I have a full time gig @ [Georgetown University](https://georgetown.edu) and a toddler at home. 👶
+* I learned to code in BASIC on an Apple iiC.
+* My favorite programming languages these days are Javascript, PHP, and... more Javascript.
+* I am on Team Oxford Comma. Don't @ me.
 
-Here are some ideas to get you started:
+## Where can you find me?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Blogging on my [portfolio site](https://thatdevgirl.com/blog)
+* Speaking at [conferences](https://talks.thatdevgirl.com)
+* Generally not updating my [personal site](https://jhalabi.com)
+* Occasionally tweeting at [@jonihalabi](https://twitter.com/jonihalabi)

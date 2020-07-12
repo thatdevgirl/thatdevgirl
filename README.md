@@ -1,4 +1,4 @@
-![Green robot with computer console text saying Hello World](images/hello-world-robot.jpg)
+![Green robot with computer console text saying Hello World](https://github.com/thatdevgirl/thatdevgirl/blob/master/images/hello-world-robot.jpg)
 
 My name is **Joni** and I am a web developer at Georgetown University.
 

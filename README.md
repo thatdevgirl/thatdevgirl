@@ -1,6 +1,6 @@
 ![Green robot with computer console text saying Hello World](https://github.com/thatdevgirl/thatdevgirl/blob/master/images/hello-world-robot.jpg)
 
-My name is **Joni** and I am a "middle-end" web developer, who loves to write code and make up her own titles.
+My name is **Joni** and I am a "middle-end" web developer who loves to write code, commit often, and make up her own titles.
 
 ## About me
 

@@ -1,14 +1,6 @@
-```
-|-------------------|
-|                   |
-| Hi there! 👋      |
-| My name is Joni.  |
-|                   |
-|-------------------|
-(\__/) ||
-(•ㅅ•) ||
-/ 　 づ
-```
+![Green robot with computer console text saying Hello World](images/hello-world-robot.jpg)
+
+My name is **Joni** and I am a web developer at Georgetown University.
 
 
 <!--

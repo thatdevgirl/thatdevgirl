@@ -1,4 +1,15 @@
-### Hi there 👋
+```
+|-------------------|
+|                   |
+| Hi there! 👋      |
+| My name is Joni.  |
+|                   |
+|-------------------|
+(\__/) ||
+(•ㅅ•) ||
+/ 　 づ
+```
+
 
 <!--
 **thatdevgirl/thatdevgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

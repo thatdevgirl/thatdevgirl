@@ -12,7 +12,6 @@ My name is **Joni** and I am a "middle-end" web developer who loves to write cod
 
 ## Where can you find me?
 
-* Blogging on my [portfolio site](https://thatdevgirl.com/blog)
+* Blogging on my [website](https://jhalabi.com/blog)
 * Speaking at [conferences](https://talks.thatdevgirl.com)
-* Generally not updating my [personal site](https://jhalabi.com)
 * Occasionally tweeting at [@jonihalabi](https://twitter.com/jonihalabi)

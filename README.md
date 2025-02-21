@@ -1,6 +1,6 @@
 ![Green robot with computer console text saying Hello World](https://github.com/thatdevgirl/thatdevgirl/blob/main/images/hello-world-robot.jpg)
 
-My name is **Joni** and I am a "middle-end" web developer who loves to write code, commit often, and make up her own titles.
+My name is **Joni** and I am a web developer, author, and conference speaker who writes technical articles, as well as creative works that focus on life as a single mother by choice.
 
 ## About me
 
@@ -15,5 +15,5 @@ My name is **Joni** and I am a "middle-end" web developer who loves to write cod
 
 * Publishing articles, mostly to my [website](https://jhalabi.com)
 * Teaching or speaking at [conferences](https://jhalabi.com/speaking/)
-* Tweeting at [@jonihalabi](https://twitter.com/jonihalabi)
-* Mastodon-ing at [@jonihalabi@higheredweb.social](https://higheredweb.social/@jonihalabi)
+* Taking pictures at [@jonihalabi](https://www.instagram.com/jonihalabi/)
+* Posting at [@jonihalabi.bsky.social](https://bsky.app/profile/jonihalabi.bsky.social)

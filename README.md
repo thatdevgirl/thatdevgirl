@@ -16,4 +16,4 @@ My name is **Joni** and I am a web developer, author, and conference speaker who
 * Publishing articles, mostly to my [website](https://jhalabi.com)
 * Teaching or speaking at [conferences](https://jhalabi.com/speaking/)
 * Taking pictures at [@jonihalabi](https://www.instagram.com/jonihalabi/)
-* Posting at [@jonihalabi.bsky.social](https://bsky.app/profile/jonihalabi.bsky.social)
+* Posting on [LinkedIn](https://www.linkedin.com/in/jonihalabi/)
